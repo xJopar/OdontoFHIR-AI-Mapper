@@ -27,7 +27,14 @@ export default function Header() {
         >
           Nueva Conversión
         </NavLink>
-
+        <a
+          href="https://odontofhirpatients.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="nav-link"
+        >
+          OdontoFHIR Patients ↗
+        </a>
         <a
           href="https://odontofhirparaguay.netlify.app/"
           target="_blank"
